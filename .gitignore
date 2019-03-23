@@ -1,0 +1,11 @@
+db.sqlite3
+.vscode/settings.json
+.vscode/launch.json
+api/__pycache__/__init__.cpython-36.pyc
+__init__
+__pycache__
+pyc
+db.sqlite3
+*~
+/static
+vscode
